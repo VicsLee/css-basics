@@ -1,0 +1,39 @@
+li{
+	background-color: red;
+}
+h1{
+	background-color: blue
+}
+p{
+	background-color: yellow
+}
+div{
+	background-color: red
+
+}
+
+#promo{
+	background-color: yellow
+}
+#alfa{
+	background-color: purple
+}
+#beta{
+	font-size: 5em; 
+}
+#gamma{
+	font-style: italic;
+}
+#gamma{
+	font-size: 7em;
+}
+.super{
+	border-radius: 10px
+}
+.tetra{
+	color: green
+}
+
+li[for="kitas"] {
+background-color: green;
+​}

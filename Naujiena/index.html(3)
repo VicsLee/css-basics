@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+	 	<title>uzduotis</title>
+	 </head>
+	 <body>
+	 	<p>naujienos</p>
+	 		<ul>
+	 			<li><a href="http://delfi.lt">Delfi</a></li>
+	 			<li><a href="http://15min.lt">15min</a></li>
+	 			<li><a href="http://lrytas.lt">lrytas</a></li>
+	 			
+	 		</ul>
+	 	<p>soc tinklai</p>
+	 		<ul>
+	 			<li><a href="http://facebook.com">www.facebook.com</a></li>
+	 			<li><a href="http://twitter.com">www.twitter.com</a></li>	
+	 		</ul>
+	 	<p>Mokyklos</p>
+	 		<ul>
+	 			<li><a href="http://kitm.lt">www.kitm.lt</a></li>	
+	 		</ul>
+	 	<H1>„Nokia“ kurs Mėnuliui tinkamą 4G ryšį </H1>
+	 	<h2>Pirmieji įspūdžiai apie „Samsung Galaxy S9“</h2>
+	 	<h3>Opportunity marsaeigis muša visus rekordus</h3>
+	 	<p>Gali būti, kad paslaptingasis Satoshi Nakamoto, kuris išrado pirmąją pasaulyje kriptovaliutą
+		bitkoiną.</p>	
+		<p>Norint 100% mėgautis kompiuterinių žaidimų teikiamais malonumais, tikrai neužtenka
+		įprastos klaviatūros.</p>
+
+		<img src="../img/smile.png" width="100" alt="Logo">
+		<h2>darbu sarasas</h2>
+			<ul>
+				<li>mokyts</li>
+				<li>pramogauti</li>
+				<li>miegoti</li>
+			</ul>
+			<ol>
+				<li>mokyts</li>
+				<li>pramogauti</li>
+				<li>miegoti</li>
+			</ol>
+	</body>

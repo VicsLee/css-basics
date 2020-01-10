@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+	 	<title>2020.01.07</title>
+	</head>
+	<body>
+		<H1>lentele</H1>
+		<table>
+			<tr>
+				<th>matmuo(cm)</th>
+				<th>2XS</th>
+				<th>XS</th>
+				<th>S</th>
+				<th>M</th>
+				<th>L</th>
+				<th>XL</th>
+			</tr>
+			<tr>
+				<th>peciu plotis</th>
+				<td>46.5</td>
+				<td>47.5</td>
+				<td>48.5</td>
+				<td>49.5</td>
+				<td>50.5</td>
+				<td>51.5</td>
+			</tr>
+			<tr>
+				<th>klubu plotis</th>
+				<td>47</td>
+				<td>49</td>
+				<td>51</td>
+				<td>53</td>
+				<td>55</td>
+				<td>57</td>
+			</tr>
+			<tr>
+				<th>rankoves ilgis</th>
+				<td>59</td>
+				<td>61</td>
+				<td>63</td>
+				<td>65</td>
+				<td>67</td>
+				<td>69</td>
+			</tr>
+			<tr>
+				<th>ilgis (priekio</th>
+				<td>72</td>
+				<td>73</td>
+				<td>74</td>
+				<td>76</td>
+				<td>78</td>
+				<td>80</td>
+			</tr>
+			<tr>
+				<th>ilgis(galo)</th>
+				<td>83</td>
+				<td>84</td>
+				<td>85</td>
+				<td>86</td>
+				<td>87</td>
+				<td>88</td>
+			</tr>
+		</table>
+		<H1>formos</H1>
+		<!-- Labai geras komentaras -->
+		<form>
+			<fieldset>
+				<select>
+					<option selected disabled>pasirinkite deparetamenta</option>
+					<option>IT</option>
+					<option>admin</option>
+					<option>finans</option>
+					<option>pagalba</option>
+				</select>
+			</fieldset>
+			<fieldset>
+				<label>gimimo data</label>
+			</fieldset
+			<fieldset>
+				<input type="date" required>
+			</fieldset>
+			<fieldset>
+				<label>akiu spalva</label>
+				<input type="color" required>
+			</fieldset>
+			<fieldset>
+				<label>vardas</label>
+				<input type="text" placeholders= "vardas" required>
+			</fieldset>
+			<fieldset>
+				<label>emale</label>
+				<input type= "text" placeholders= "emale" required>
+			</fieldset>
+			<fieldset>
+				<textarea placeholder="Jusu zin"></textarea>
+			</fieldset>
+			<fieldset>
+					<label>ar sutinkate</label>
+					<label>taip</label>
+					<input type="radio" name="agreement">
+					<label>ne</label>
+					<input type="radio" name="agreement">
+			</fieldset>
+				<button type="submit"> siusti</button>
+			</fieldset> 
+		</form>
+		<H2>duomenu info</H2>
+		<form>
+			<fieldset>
+				<label>el pasto adresas*</label>
+				<input type= "text" placeholder= "el pasto adresas*" required>
+			</fieldset>
+			<fieldset>
+				<label>slaptazodis*</label>
+				<input type= "text" placeholder= "slaptazodis" required>
+			</fieldset>
+			<fieldset>
+				<label>patvirtinti psw*</label>
+				<input type= "text" placeholder= "patvirtinti psw*" required>
+			</fieldset>
+			<p>pasitikrinkite sask adrs</p>
+			<fieldset>
+				<select>
+					<option selected disabled>Lytis*</option>
+					<option>vyras</option>
+					<option>moteris</option>
+				</select>
+			</fieldset>
+			<fieldset>
+				<nav>
+					<a href= "www.delfi.lt">nuoroda</a>
+				</nav>
+			</fieldset>
+			<fieldset>
+				<label>Vardas*</label>
+				<input type= "text" placeholder= "Vardas*" required>
+			</fieldset>
+			<fieldset>
+				<label>Pavarde*</label>
+				<input type= "text" placeholder= "Pavarde*" required>
+			</fieldset>
+			<fieldset>
+				<label>gatve*</label>
+				<input type= "text" placeholder= "gatve*" required>	
+				<input type= "text" placeholder= "namas*" required>
+			</fieldset>
+			<fieldset>
+				<label>salis*</lable>
+				<select>
+					<option selected disabled>-</option>
+					<option>lietuva</option>
+					<option>airija</option>
+					<option>JAV</option>
+				</select>
+			</fieldset>
+			<fieldset>
+				<label>telefonas*</label>
+				<input type= "text" placeholder= "telefonas*" required>
+			</fieldset>
+			<fieldset>
+				<label>papildoma info</label>
+				<textarea></textarea>
+			</fieldset>
+			<fieldset>
+				<p>prasome uzpildyti visus * laukialius</p>
+			</fieldset>
+			</fieldset>
+				<button type="submit"> Registruotis</button>
+			</fieldset> 
+		</form>
+	</body>
+</html>
